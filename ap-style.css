@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: #6A8FAA !important; */
+    background-image: url(./Images/pexels-miggy-rivera-3236265.jpg);
+    background-size: cover;
+    background-attachment:scroll;
+    background-position: top;
+}
+
+#nav-text   {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    font-size: large;
+    color: #BBC7D1 !important;
+    background-color: #343539 !important;
+
+}
+
+#nav-brand  {
+    font-size: x-large;
+}
+
+#content    {
+    color: #CAC6C5;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+#coordinates    {
+    color: #C6D6DE;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+#career {
+    font-family: 'League Spartan', sans-serif !important;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+#career-container   {
+    background-color: #343539;
+    height: fit-content;
+}
+
+#career-disc    {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+#core-tools {
+    font-family: 'League Spartan', sans-serif;
+    font-size: 30px;
+    color: white;
+}

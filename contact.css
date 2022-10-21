@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: #6A8FAA !important; */
+    background-image: url(./Images/bonsai.jpg);
+    background-size: cover;
+    background-attachment:scroll;
+    background-position: top;
+
+}
+
+#nav-text   {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    font-size: large;
+    color: #BBC7D1 !important;
+    background-color: #343539 !important;
+
+}
+
+#nav-brand  {
+    font-size: x-large;
+}
+
+#content    {
+    color: #CBD6D4;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+}
+
+#contact-bg {
+    background-color: rgba(52, 53, 57, 0.9);
+}
+
+#contact-font   {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#submit-email   {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: white;
+}
+
+#fb {
+    height: 25px;
+    width: 25px;
+}

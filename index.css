@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./Images/alesund.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#nav-text {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    font-size: large;
+    color: #BBC7D1 !important;
+
+}
+
+#nav-brand  {
+    font-size: x-large;
+}
+
+#content    {
+    color: #C6D6DE;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 120px;
+    margin-bottom: 0;
+}
+
+#coordinates    {
+    color: #C6D6DE;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    padding: 0;
+}
+
